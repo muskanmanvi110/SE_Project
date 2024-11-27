@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "534424239045",
+    "project_id": "book-uploading",
+    "storage_bucket": "book-uploading.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534424239045:android:ac2b4afe77ac64a66ea9ac",
+        "android_client_info": {
+          "package_name": "com.example.book_uploading"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAruU75U4_qmOJbn0tJA6G0zShqZgfpqhs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
